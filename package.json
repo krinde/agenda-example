@@ -1,0 +1,30 @@
+{
+  "name": "agenda-example",
+  "version": "1.0.0",
+  "description": "Examples to illustrate how to use agenda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krinde/agenda-example.git"
+  },
+  "keywords": [
+    "agenda",
+    "task",
+    "scheduler",
+    "examples"
+  ],
+  "author": "krinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krinde/agenda-example/issues"
+  },
+  "homepage": "https://github.com/krinde/agenda-example#readme",
+  "dependencies": {
+    "agenda": "^2.0.0",
+    "agendash": "^0.4.0",
+    "request": "^2.87.0"
+  }
+}
